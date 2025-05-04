@@ -91,8 +91,8 @@
 
 ## Github Stats  
 
-<img src="https://github-readme-stats.vercel.app/api?username=HasanC14&show_icons=true&theme=radical&count_private=true&hide_border=true&hide=prs,issues,contribs" align="center" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanC14&hide_border=true&theme=radical&layout=compact" align="center" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=AAFaiyaz&show_icons=true&theme=radical&count_private=true&hide_border=true&hide=prs,issues,contribs" align="center" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAFaiyaz&hide_border=true&theme=radical&layout=compact" align="center" /> 
 
 
 <br/>  
