@@ -51,15 +51,14 @@
 
 ## Best Projects
 
-- Crypto Dash — Displays live cryptocurrency data using the CoinGecko API  
-🔗 Live Demo: https://crypto-dash-zeta-orcin.vercel.app/
-💻 Code: https://github.com/AAFaiyaz/crypto-dash
+- **Crypto Dash** — Displays live cryptocurrency data  
+  - **Live:** https://crypto-dash-zeta-orcin.vercel.app/  
+  - **Code:** https://github.com/AAFaiyaz/crypto-dash  
+  - Displays market prices in real-time using CoinGecko API  
+  - Search and filter cryptocurrencies
+  - Interactive charts for price trends
+  - **Tech Stack:** React.js | Chart.js | Tailwind CSS | CoinGecko API
 
-  - A platform for buying and selling used books
-  - Admin route for managing users and products
-  - Seller route for adding and managing their products
-  - Secure transactions through Stripe integration
-  - Tech Stack: MongoDB | ReactJS | ExpressJS | Node.js | Tailwind CSS | Stripe | DaisyUI
 
 - [WriteRight](https://github.com/HasanC14/WriteRight) - Writing Enhancement Tool
   - A platform that leverages the power of OpenAI's language processing technology to enhance writing
