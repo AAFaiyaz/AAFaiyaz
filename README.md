@@ -51,7 +51,10 @@
 
 ## Best Projects
 
-- [Second Book](https://github.com/HasanC14/Second-Book) - Online E-Commerce Platform
+- Crypto Dash — Displays live cryptocurrency data using the CoinGecko API  
+🔗 Live Demo: https://crypto-dash-zeta-orcin.vercel.app/
+💻 Code: https://github.com/AAFaiyaz/crypto-dash
+
   - A platform for buying and selling used books
   - Admin route for managing users and products
   - Seller route for adding and managing their products
